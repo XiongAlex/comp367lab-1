@@ -1,0 +1,7 @@
+# .gitignore
+
+# Ignore obj directory
+obj/
+
+# Ignore Properties directory
+Properties/
